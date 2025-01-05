@@ -34,6 +34,6 @@ This project is a visually appealing, responsive travel booking and inspiration 
 
 ### Clone the Repository  
 ```bash
-git clone <repository-url>(https://github.com/kaven17/finals-ssn)
+git clone <repository-url>
 
  
